@@ -1,0 +1,30 @@
+.container{
+    padding-top: 10px;
+    display: flex;
+    flex-direction: row;
+
+}
+
+
+.navbar{
+	
+    background-color: #D32F2F !important;
+}
+.nav-link{
+
+	 
+    font-weight:bold !important;
+    font-size: 20px;
+    color: #FFFFFF !important;
+
+
+}
+
+.BBB{
+    padding-top: 20px;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    padding-top: 10px;
+}
